@@ -1,0 +1,77 @@
+body{
+    text-align: center;
+    padding: 90px;
+    font-family: 'Ubuntu', sans-serif;
+    background-image: url(background.jpg);
+    background-size: cover;     
+}
+
+.backgroundtitolo{
+    padding: 10px;
+}
+
+.backgroundopaco{
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 25px;
+    padding: 20px;
+}
+
+main{
+    color: white;
+}
+
+
+#coloretitolo{
+    color: rgb(6, 246, 6);
+
+}
+
+img{
+    width: 200px;
+}
+.backgroundbutton{
+    background-color: rgb(6, 246, 6);
+    padding: 1%;
+    width: 970px;
+    margin: auto;
+}
+
+.sezione2{
+    text-align: left;
+    width: 1000px;
+    margin: auto;
+    display: inline-block;
+    padding: 15px; 
+}
+
+.titolo1{
+    font-size: 20px;
+    margin-right: 70px;   
+}
+
+.spazio{
+    margin-top:8px;
+    margin-bottom: 8px;
+    font-size: medium-;
+}
+
+.caricauno{
+    background-color:rgb(238, 161, 18);
+    border-radius: 5px;
+    padding: 15px;
+    width:320px;    
+}
+
+.caricadue{
+    background-color: rgb(6, 243, 6);
+    border-radius: 5px;
+    padding: 15px;
+    width:700px;
+}
+
+.caricatre{
+    background-color: rgb(98, 7, 7);
+    border-radius: 5px;
+    padding: 15px;
+    width:150px;  
+}
